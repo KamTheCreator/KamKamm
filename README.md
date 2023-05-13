@@ -9,8 +9,7 @@
 
 <h1>💬 Social</h1>
 
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kammykamsi@gmail.com">
-
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kammykamsi@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamkamm&show_icons=true&locale=en&theme=tokyonight" alt="kamkamm" /></p>
 
