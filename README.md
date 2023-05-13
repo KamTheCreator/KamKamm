@@ -10,11 +10,13 @@
 <h1>💬 Social</h1>
 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kammykamsi@gmail.com)
+ 
+ <p><img align="buttom" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamkamm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kamkamm" 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamkamm&show_icons=true&locale=en&theme=tokyonight" alt="kamkamm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamkamm&theme=tokyonight" alt="kamkamm" /></p>
-<p><img align="buttom" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamkamm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kamkamm" />
+/>
 
 <h1>Technologies</h1>
 <h3>Programmin and Styling Languages</h3>
