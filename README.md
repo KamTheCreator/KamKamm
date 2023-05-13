@@ -10,14 +10,17 @@
 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kammykamsi@gmail.com)
  
- <p><img align="buttom" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamkamm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kamkamm" 
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamkamm&show_icons=true&locale=en&theme=tokyonight" alt="kamkamm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamkamm&theme=tokyonight" alt="kamkamm" /></p>
-/>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamkamm&theme=tokyonight">
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user={kamkamm}&theme=tokyonight">
+
+
 
 <h1>Technologies</h1>
+
 <h3>Programmin and Styling Languages</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
