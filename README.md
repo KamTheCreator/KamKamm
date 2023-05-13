@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamsiyochukwu Ezeh</h1>
+<h1 align="center">Hi 👋, I'm Kamsi</h1>
 <h3 align="center">A passionate Full-stack developer and also an Information Security Analyst.</h3>
 
 
