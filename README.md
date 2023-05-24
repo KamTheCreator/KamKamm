@@ -11,12 +11,12 @@
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kammykamsi@gmail.com)
  
 <hr/>
+<a href="https://app.daily.dev/kamkamm"><img src="https://api.daily.dev/devcards/bf33f96ccf8e4ebd89dbbaf5d45588df.png?r=86s" width="200" alt="Kamkamm's Dev Card"/></a>
 
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamkamm&theme=tokyonight">
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user={kamkamm}&theme=tokyonight">
-
 
 
 <h1>Technologies</h1>
