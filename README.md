@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋🏽, I'm Kamsi</h1>
 
 <h1>💬 Social</h1>
 
