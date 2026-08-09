@@ -8,7 +8,6 @@
 <a href="https://tryhackme.com/p/kAMSIYOCHUKWU">
   <img src="https://tryhackme-badges.s3.amazonaws.com/kAMSIYOCHUKWU.png" alt="TryHackMe Badge" />
 </a>
-
 <br/><br/>
 
 <!-- TryHackMe Room Badges -->
