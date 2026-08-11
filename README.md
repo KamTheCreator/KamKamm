@@ -9,7 +9,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/kAMSIYOCHUKWU.png" alt="TryHackMe Badge" />
 </a>
 <br/><br/>
-
 <!-- TryHackMe Room Badges -->
 <a href="https://tryhackme.com/kAMSIYOCHUKWU/badges/terminaled" title="cat linux.txt">
   <img src="https://cdn-images.tryhackme.com/b53d747850667631c8e4437dd8c22dfa.png" alt="cat linux.txt badge" width="90" />
