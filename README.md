@@ -25,7 +25,6 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
 - 🔭 I build software and break things (ethically) — I live at the intersection of **software engineering** and **cybersecurity**.
